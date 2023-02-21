@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+}
+
+.color-cont {
+  width: 200px;
+  height: 100px;
+}
+
+.button-group-cont {
+  margin: 20px 0;
+}
+
+.lbl-guess-checker {
+  margin: 0;
+}
+
+.correct {
+  color: "green";
+}
+
+.wrong {
+  color: "red";
+}
